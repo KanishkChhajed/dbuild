@@ -1,20 +1,54 @@
-# dbuild
-
-...is a build and debugging tool based on sbt.
-
-It is used to coordinate the development of multiple, independent projects
-that evolve in parallel: dbuild uses a multi-project definition file to build
-all the requested projects, and makes sure that they all work together, even
-though each of them may evolve independently.
-
-You can find the complete dbuild documentation at the
-[dbuild web site](https://lightbend-labs.github.io/dbuild).
-
-## Maintenance status
-
-dbuild is now only used by the [Scala 2 community build](http://github.com/scala/community-build).
-It receives only light maintenance, as needed, from the Scala team at Lightbend.
-
-## Release Notes
-
-see [CHANGELOG.md](CHANGELOG.md)
+<h1 align="center">
+    <img src="https://img.shields.io/badge/dbuild-🎯-blueviolet?style=for-the-badge" alt="Repo Badge">
+  </h1>
+  
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/121193249?v=4" width="100" style="border-radius:50%;">
+  </p>
+  
+  ---
+  
+  ## 📖 About the Project
+  - **Repository Name:** dbuild
+  - **Owner:** KanishkChhajed
+  - **Visibility:** public
+  - **Primary Language(s):** Scala
+  
+  ---
+  
+  ## 📊 Stats
+  
+  | Stars | Forks | Watchers | Open Issues | Closed Issues |
+  |:----:|:-----:|:--------:|:-----------:|:-------------:|
+  | 0 | 0 | 0 | 0 | 0 |
+  
+  ---
+  
+  ## 📢 Last Commit
+  
+  > "Adding my workflow for testing"
+  
+  ---
+  
+  ## 🤝 Contributors
+  
+  
+  - [`jsuereth`](#)
+  
+  - [`SethTisue`](#)
+  
+  - [`dwijnand`](#)
+  
+  - [`ktoso`](#)
+  
+  - [`pvlugter`](#)
+  
+  - [`adriaanm`](#)
+  
+  - [`KanishkChhajed`](#)
+  
+  
+  ---
+  
+  > *Generated with ❤️ by an automated GitHub Action* 🚀
+  
